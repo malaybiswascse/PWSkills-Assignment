@@ -25,11 +25,6 @@ public class Main {
         int[] nums1 = {0, 1, 0, 3, 12};
         moveZeroes(nums1);
         System.out.println(Arrays.toString(nums1));
-       
-
-        int[] nums2 = {0};
-        moveZeroes(nums2);
-        System.out.println(Arrays.toString(nums2));
-        
+     
     }
 }
